@@ -1,17 +1,17 @@
 {
   "baseURL": "https://awesome11ty.ttntm.me",
-  "author": "AWE.SOME",
-  "description": "AWE.SOMEty - A Landing Page Template for 11ty",
-  "title": "AWE.SOMEty - A Landing Page Template for 11ty",
+  "author": "Lymbic AI",
+  "description": "Lymbic AI- An AI to decode the brain",
+  "title": "Lymbic AI - A Landing Page Template for 11ty",
   "language": "en",
   "social": [
     {
       "title": "Twitter",
-      "url": "https://twitter.com/#"
+      "url": "https://twitter.com/lymbicai"
     },
     {
       "title": "LinkedIn",
-      "url": "https://linkedin.com/company/#"
+      "url": "https://linkedin.com/company/lymbic"
     }
   ]
 }

@@ -1,5 +1,5 @@
 ---
-title: Registration
+title: Learn More
 type: register
 ---
 

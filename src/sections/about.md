@@ -1,5 +1,5 @@
 ---
-title: AWE.SOME Heading
+title: Lymbic AI Heading
 type: about
 ---
 

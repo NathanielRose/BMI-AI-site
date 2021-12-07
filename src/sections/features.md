@@ -1,5 +1,5 @@
 ---
-title: Most AWE.SOME Features
+title: What Lymbic AI is Building
 afterTitle: ...and so much more!
 type: features
 ---
