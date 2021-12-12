@@ -3,4 +3,4 @@ title: Lymbic AI Heading
 type: about
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt. Vivamus vitae erat vel tellus condimentum consectetur.
+**Neurotechnology** is a rapidly expanding industry that seeks to empower humans with insight into the organ that governs our bodies, the brain. **Lymbic AI** is a service that will enable the next wave of **"neuro-applications"** by providing a curated programmatic library built by AI to securely interpret our brain signals for use with emerging neuro-based companies.
