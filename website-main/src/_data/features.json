@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Mental Wellbeing",
+    "icon": "icon1.svg",
+    "content": "**Parameters: Stress, Emotional level**"
+  },
+  {
+    "title": "Entertainment",
+    "icon": "icon2.svg",
+    "content": "**Parameters: Emotional level**"
+  },
+  {
+    "title": "Product Testing",
+    "icon": "icon3.svg",
+    "content": "**Parameters: Engagement**"
+  },
+  {
+    "title": "Security",
+    "icon": "icon4.svg",
+    "content": "**Parameters: Brainwave identification**"
+  },
+  {
+    "title": "Immersive Experiences",
+    "icon": "icon5.svg",
+    "content": "**Parameters: Focus**"
+  },
+  {
+    "title": "Productivity",
+    "icon": "icon6.svg",
+    "content": "**Parameters: Focus, Engagement**"
+  }
+]

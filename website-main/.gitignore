@@ -1,7 +1,6 @@
 .env
 public/
 package-lock.json
-*.DS_Store
 
 # Logs
 logs
