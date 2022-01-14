@@ -54,3 +54,4 @@ Best have a look at `./layouts/base.njk` first to understand how it all comes to
 **Change images:**
 
 Images are stored in `./static/img/`; everything in there can be considered a placeholder that should eventually be replaced with your actual production images.
+'# Page header' 

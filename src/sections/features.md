@@ -1,7 +1,6 @@
 ---
-title: What Lymbic AI is Building
-afterTitle: ...and so much more!
+title: Brain State Interpretation
 type: features
 ---
 
-Pellentesque ullamcorper fringilla odio at pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla mattis erat dui, ut tempor lectus dictum id.
+The aim of Lymbic AI is to accelerate the field of Neurotechnology and Brain-Computer-Interfaces further by introducing holistic AI frameworks. The AI will read the data of consumer graded head wearables with integrated electrical sensor (EEG) and output several brain state **parameters** to serve the following industries
