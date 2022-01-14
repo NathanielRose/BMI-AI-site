@@ -272,6 +272,9 @@ module.exports = {
         '"Courier New"',
         'monospace',
       ],
+      niko: [
+        '"Poppins Extra-light 200"',
+      ]
     },
     fontSize: {
       xs: ['0.75rem', { lineHeight: '1rem' }],
@@ -972,10 +975,6 @@ module.exports = {
     width: ['responsive'],
     wordBreak: ['responsive'],
     zIndex: ['responsive', 'focus-within', 'focus'],
-module.exports = {
-  content: [],
-  theme: {
-    extend: {},
   },
   plugins: [],
 }

@@ -2,31 +2,31 @@
   {
     "title": "Mental Wellbeing",
     "icon": "icon1.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "**Parameters: Stress, Emotional level**"
   },
   {
     "title": "Entertainment",
     "icon": "icon2.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "**Parameters: Emotional level**"
   },
   {
     "title": "Product Testing",
     "icon": "icon3.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "**Parameters: Engagement**"
   },
   {
     "title": "Security",
     "icon": "icon4.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "**Parameters: Brainwave identification**"
   },
   {
     "title": "Immersive Experiences",
     "icon": "icon5.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "**Parameters: Focus**"
   },
   {
-    "title": "Focus and Productivity",
+    "title": "Productivity",
     "icon": "icon6.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "**Parameters: Focus, Engagement**"
   }
 ]
