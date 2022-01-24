@@ -1,5 +1,5 @@
 ---
-title: Next Technology Wave
+title: An Emerging Biotechnology Paradigm
 type: about
 ---
 
