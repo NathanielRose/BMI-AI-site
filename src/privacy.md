@@ -17,7 +17,7 @@ layout: page.njk
 <p><strong>Account</strong> means a unique account created for You to access our Service or parts of our Service.</p>
 </li>
 <li>
-<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Lymbic AI Ltd, Flat 6, Charleville Court, W14 9JG, London.</p>
+<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Lymbic AI Ltd, Flat 6, Grosvenor Court, Wharf Lane, E14 7HW, London, United Kingdom.</p>
 </li>
 <li>
 <p><strong>Cookies</strong> are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.</p>

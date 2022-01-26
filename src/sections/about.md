@@ -1,5 +1,5 @@
 ---
-title: An Emerging Biotechnology Paradigm
+title: The Emerging BioTech Paradigm
 type: about
 ---
 

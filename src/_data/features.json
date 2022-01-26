@@ -2,31 +2,31 @@
   {
     "title": "Mental Wellbeing",
     "icon": "icon1.svg",
-    "content": "**Parameters: Stress, Emotional level**  \n Overproportionally high stress and low emotional level can be significant symptoms of epidemic conditions like Depression. Identifying and treating mental disorders at an early stage can be extremely beneficial the wellbeing of humankind."
+    "content": "**Parameters: Stress, Emotional level**  \n High stress as well as low emotional level can be significant symptoms of epidemic conditions like Depression. Identifying mental disorders at an early stage can be extremely beneficial for treatments and the wellbeing of humankind."
   },
   {
     "title": "Entertainment",
     "icon": "icon2.svg",
-    "content": "**Parameters: Emotional level**  \n Music services that not only understand your taste in music (spotify today), but also sense your emotions and configure playlists according to your mood. Imagine you're running: motivational music is played to reach your goals."
+    "content": "**Parameters: Emotional level**  \n Music services that not only understand your music taste (spotify today), but also sense your emotions and configure playlists according to your mood. Imagine you're running: motivational music is played to make you run this extra-mile."
   },
   {
     "title": "Product Testing",
     "icon": "icon3.svg",
-    "content": "**Parameters: Engagement** \n You're holding the next-gen smartphone in your hands. How much does the desing and haptic makes you engage with the product? What are your inner brain reactions to interacting with the product?"
+    "content": "**Parameters: Engagement**  \n Validate your customer's feedback with actual brain metrics. Imagine you want to get feedback on the next-gen smartphone: How does the objectively obtainable brain reaction of your customer look like when he/she first touches your device?"
   },
   {
     "title": "Security",
     "icon": "icon4.svg",
-"content": "**Parameters: Brainwave identification** \n While using everyday wearables like headphones, you're automatically logged into your most important devices and accounts, effortlesly!"
+"content": "**Parameters: Brainwave identification**  \n A new era of securing your accounts and devices starts now. Don't type your passcodes down, just imagine them! While using everyday wearables like headphones, you're automatically logged into your digital environment, effortlesly!"
   },
   {
     "title": "Immersive Experiences",
     "icon": "icon5.svg",
-    "content": "**Parameters: Focus** Digital worlds are built according to your own brain metrics: Your emotional level varies digital experience like in-game environments."
+    "content": "**Parameters: Emotional Level, Focus**  \n Experience contents tailored to your mind. Dive deeper into digital worlds while the bridge between your biological and the computational central processing unit is closed. Reach the next level of in-game experience with always high attention."
   },
   {
     "title": "Productivity",
     "icon": "icon6.svg",
-    "content": "**Parameters: Focus, Engagement** While sitting in an university lecture or watching a video about recent innovation at home - your focus level can be monitored and makes realize the kind of media or content you engages most with and assimilate information the best."
+    "content": "**Parameters: Focus, Engagement**  \n Sitting in a lecture or watching a video about recent innovations at home - your focus level can be monitored and tracked in graphs and figure. Realize the kind of media that you engages most with and let you assimilate information the best."
   }
 ]

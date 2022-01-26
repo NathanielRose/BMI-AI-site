@@ -7,8 +7,8 @@ layout: page.njk
 ## Lymbic AI LTD
 
 www.lymbic.ai is a biotechnology service
-6 Charleville Court Charleville Road
-London England, W14 9JL
+Flat 6, Grosvenor Court, Wharf Lane
+London England, E14 7HW
 United Kingdom
 
 E-Mail: hello@lymbic.ai
