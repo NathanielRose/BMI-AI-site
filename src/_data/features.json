@@ -2,12 +2,12 @@
   {
     "title": "Mental Wellbeing",
     "icon": "icon1.svg",
-    "content": "**Parameters: Stress, Emotional level**  \n Overproportional high stress can be a significant symptom of Depression that takes on epidemic proportions. Identifying mental disorders at an early stage can be extremely beneficial for treatments and ensure the wellbeing of humankind."
+    "content": "**Parameters: Stress**  \n Overproportional high stress can be a significant symptom of Depression that takes on epidemic proportions. Identifying mental disorders at an early stage can be extremely beneficial for treatments and ensure the wellbeing of humankind."
   },
   {
     "title": "Entertainment",
     "icon": "icon2.svg",
-    "content": "**Parameters: Emotional level**  \n Algorithms that not only understand your general music taste, but play exactly the music you want in this situation. Playlists are dynamically configured in real-time according to your mood. Motivational music is played to make you run this extra-mile."
+    "content": "**Parameters: Focus**  \n Algorithms that not only understand your general music taste, but tailor the music to your current needs. Playlists are dynamically configured according to your mood. Motivational music is played to make you achieve this extra-mile."
   },
   {
     "title": "Product Testing",
@@ -17,12 +17,12 @@
   {
     "title": "Security",
     "icon": "icon4.svg",
-"content": "**Parameters: Identification**  \n Password breach accounts for a large proportion of cyber security attacks. Lymbic seeks to foster a new authentication standard. While using everyday head wearables like headphones, users access their digital environment through their neural signals, effortlessly."
+"content": "**Parameters: Raw Signal**  \n Password breach accounts for a large proportion of cyber security attacks. Lymbic seeks to foster a new authentication standard. While using everyday head wearables like headphones, users access their digital environment through their neural signals, effortlessly."
   },
   {
     "title": "Immersive Experiences",
     "icon": "icon5.svg",
-    "content": "**Parameters: Emotional Level, Focus**  \n Experience contents tailored to your mind. Dive deeper into digital worlds while the bridge between your biological and the computational central processing unit is closed. Reach the next level of in-game experience with always high attention."
+    "content": "**Parameters: Engagement**  \n Adding biomarker for an interface. Experience contents tailored to your mind. Dive deeper into digital worlds while the bridge between your biological and the computational central processing unit is closed. Reach the next level of in-game experience with always high attention."
   },
   {
     "title": "Productivity",
