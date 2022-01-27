@@ -2,22 +2,22 @@
   {
     "title": "Mental Wellbeing",
     "icon": "icon1.svg",
-    "content": "**Parameters: Stress, Emotional level**  \n High stress as well as low emotional level can be significant symptoms of epidemic conditions like Depression. Identifying mental disorders at an early stage can be extremely beneficial for treatments and the wellbeing of humankind."
+    "content": "**Parameters: Stress, Emotional level**  \n Overproportional high stress can be a significant symptom of Depression that takes on epidemic proportions. Identifying mental disorders at an early stage can be extremely beneficial for treatments and ensure the wellbeing of humankind."
   },
   {
     "title": "Entertainment",
     "icon": "icon2.svg",
-    "content": "**Parameters: Emotional level**  \n Music services that not only understand your music taste (spotify today), but also sense your emotions and configure playlists according to your mood. Imagine you're running: motivational music is played to make you run this extra-mile."
+    "content": "**Parameters: Emotional level**  \n Algorithms that not only understand your general music taste, but play exactly the music you want in this situation. Playlists are dynamically configured in real-time according to your mood. Motivational music is played to make you run this extra-mile."
   },
   {
     "title": "Product Testing",
     "icon": "icon3.svg",
-    "content": "**Parameters: Engagement**  \n Validate your customer's feedback with actual brain metrics. Imagine you want to get feedback on the next-gen smartphone: How does the objectively obtainable brain reaction of your customer look like when he/she first touches your device?"
+    "content": "**Parameters: Engagement**  \n A new understanding of the product-user interaction according to the most reliable and objectively obtainable ressource - the brain. Validate user feedback with accurate brain metrics to optimize your product and exceed all market expectations."
   },
   {
     "title": "Security",
     "icon": "icon4.svg",
-"content": "**Parameters: Brainwave identification**  \n A new era of securing your accounts and devices starts now. Don't type your passcodes down, just imagine them! While using everyday wearables like headphones, you're automatically logged into your digital environment, effortlesly!"
+"content": "**Parameters: Identification**  \n Password breach accounts for a large proportion of cyber security attacks. Lymbic seeks to foster a new authentication standard. While using everyday head wearables like headphones, users access their digital environment through their neural signals, effortlessly."
   },
   {
     "title": "Immersive Experiences",
@@ -27,6 +27,6 @@
   {
     "title": "Productivity",
     "icon": "icon6.svg",
-    "content": "**Parameters: Focus, Engagement**  \n Sitting in a lecture or watching a video about recent innovations at home - your focus level can be monitored and tracked in graphs and figure. Realize the kind of media that you engages most with and let you assimilate information the best."
+    "content": "**Parameters: Focus, Engagement**  \n Revolutinary inights into what content and medium users engage most with on an individual level and a collective level. Biometric patterns will improve productivity at work and realign education based on how we as humans best assimilate information."
   }
 ]
