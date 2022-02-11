@@ -1,32 +1,22 @@
 [
   {
-    "title": "Mental Wellbeing",
-    "icon": "icon1.svg",
-    "content": "**Parameters: Stress**  \n Overproportional high stress can be a significant symptom of Depression that takes on epidemic proportions. Identifying mental disorders at an early stage can be extremely beneficial for treatments and ensure the wellbeing of humankind."
-  },
-  {
-    "title": "Entertainment",
-    "icon": "icon2.svg",
-    "content": "**Parameters: Focus**  \n Algorithms that not only understand your general music taste, but tailor the music to your current needs. Playlists are dynamically configured according to your mood. Motivational music is played to make you achieve this extra-mile."
-  },
-  {
-    "title": "Product Testing",
-    "icon": "icon3.svg",
-    "content": "**Parameters: Engagement**  \n A new understanding of the product-user interaction according to the most reliable and objectively obtainable ressource - the brain. Validate user feedback with accurate brain metrics to optimize your product and exceed all market expectations."
-  },
-  {
     "title": "Security",
     "icon": "icon4.svg",
-"content": "**Parameters: Raw Signal**  \n Password breach accounts for a large proportion of cyber security attacks. Lymbic seeks to foster a new authentication standard. While using everyday head wearables like headphones, users access their digital environment through their neural signals, effortlessly."
+    "content": "**Parameters: Wavelength Feature Extraction**  \n Password breach accounts for a large proportion of cyber security attacks. Lymbic seeks to foster a new authentication standard. While using everyday head wearables like headphones, users access their digital environment through their neural signals, effortlessly."
   },
   {
-    "title": "Immersive Experiences",
-    "icon": "icon5.svg",
-    "content": "**Parameters: Engagement**  \n Adding biomarker for an interface. Experience contents tailored to your mind. Dive deeper into digital worlds while the bridge between your biological and the computational central processing unit is closed. Reach the next level of in-game experience with always high attention."
+    "title": "Mental Wellbeing",
+    "icon": "icon1.svg",
+    "content": "**Parameters: Cognitive Load**  \n Overproportional high stress can be a significant symptom of Depression that takes on epidemic proportions. Identifying mental disorders at an early stage can be extremely beneficial for treatments and ensure the wellbeing of humankind."
   },
   {
-    "title": "Productivity",
+    "title": "Productivity & Testing",
     "icon": "icon6.svg",
-    "content": "**Parameters: Focus, Engagement**  \n Revolutinary inights into what content and medium users engage most with on an individual level and a collective level. Biometric patterns will improve productivity at work and realign education based on how we as humans best assimilate information."
+    "content": "**Parameters: Attention, Cognitive Load**  \n Revolutionary inights into  how users engage with contents, mediums and products — both individually and collectively. Biometric findings will help us boost productivity, redesign education and optimize products according to the user's brain response."
+  },
+  {
+    "title": "Immersive Entertainment",
+    "icon": "icon2.svg",
+    "content": "**Parameters: Attention, Valence & Arousal**  \n Reach the next level of in-game experiences while assuring high focus throughout.  \n Listen to music tailored to your mood. Our AI understands more than your general music taste and configures individual playlists in real-time."
   }
 ]
