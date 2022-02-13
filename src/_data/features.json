@@ -1,32 +1,22 @@
 [
   {
-    "title": "Mental Wellbeing",
-    "icon": "icon1.svg",
-    "content": "**Parameters: Stress, Emotional level**  \n High stress as well as low emotional level can be significant symptoms of epidemic conditions like Depression. Identifying mental disorders at an early stage can be extremely beneficial for treatments and the wellbeing of humankind."
-  },
-  {
-    "title": "Entertainment",
-    "icon": "icon2.svg",
-    "content": "**Parameters: Emotional level**  \n Music services that not only understand your music taste (spotify today), but also sense your emotions and configure playlists according to your mood. Imagine you're running: motivational music is played to make you run this extra-mile."
-  },
-  {
-    "title": "Product Testing",
-    "icon": "icon3.svg",
-    "content": "**Parameters: Engagement**  \n Validate your customer's feedback with actual brain metrics. Imagine you want to get feedback on the next-gen smartphone: How does the objectively obtainable brain reaction of your customer look like when he/she first touches your device?"
-  },
-  {
     "title": "Security",
     "icon": "icon4.svg",
-"content": "**Parameters: Brainwave identification**  \n A new era of securing your accounts and devices starts now. Don't type your passcodes down, just imagine them! While using everyday wearables like headphones, you're automatically logged into your digital environment, effortlesly!"
+    "content": "**Parameters: Wavelength Feature Extraction**  \n Password breach accounts for a large proportion of cyber security attacks. Lymbic seeks to foster a new authentication standard. While using everyday head wearables like headphones, users access their digital environment through their neural signals, effortlessly."
   },
   {
-    "title": "Immersive Experiences",
-    "icon": "icon5.svg",
-    "content": "**Parameters: Emotional Level, Focus**  \n Experience contents tailored to your mind. Dive deeper into digital worlds while the bridge between your biological and the computational central processing unit is closed. Reach the next level of in-game experience with always high attention."
+    "title": "Mental Wellbeing",
+    "icon": "icon1.svg",
+    "content": "**Parameters: Cognitive Load**  \n Overproportional high stress can be a significant symptom of Depression that takes on epidemic proportions. Identifying mental disorders at an early stage can be extremely beneficial for treatments and ensure the wellbeing of humankind."
   },
   {
-    "title": "Productivity",
+    "title": "Productivity & Testing",
     "icon": "icon6.svg",
-    "content": "**Parameters: Focus, Engagement**  \n Sitting in a lecture or watching a video about recent innovations at home - your focus level can be monitored and tracked in graphs and figure. Realize the kind of media that you engages most with and let you assimilate information the best."
+    "content": "**Parameters: Attention, Cognitive Load**  \n Revolutionary inights into  how users engage with contents, mediums and products — both individually and collectively. Biometric findings will help us boost productivity, redesign education and optimize products according to the user's brain response."
+  },
+  {
+    "title": "Immersive Entertainment",
+    "icon": "icon2.svg",
+    "content": "**Parameters: Attention, Valence & Arousal**  \n Reach the next level of in-game experiences while assuring high focus throughout.  \n Listen to music tailored to your mood. Our AI understands more than your general music taste and configures individual playlists in real-time."
   }
 ]

@@ -94,7 +94,7 @@ html {
     list-style: none;
 
     animation-name: change;
-    animation-duration: 20s;
+    animation-duration: 13s;
     animation-iteration-count: infinite;
 }
 
@@ -105,15 +105,11 @@ html {
 
 @keyframes change {
   0%, 100% {transform:translate3d(0,0,0);}
-  10% {transform:translate3d(0,-16.67%,0);}
-  20% {transform:translate3d(0,-33.33%,0);}
-  30% {transform:translate3d(0,-50.00%,0);}
-  40% {transform:translate3d(0,-66.67%,0);}
-  50% {transform:translate3d(0,-83.33%,0);}
-  60% {transform:translate3d(0,-66.67%,0);}
-  70% {transform:translate3d(0,-50.00%,0);}
-  80% {transform:translate3d(0,-33.33%,0);}
-  90% {transform:translate3d(0,-16.67%,0);}
+  16.67% {transform:translate3d(0,-25%,0);}
+  33.33% {transform:translate3d(0,-50%,0);}
+  50% {transform:translate3d(0,-75%,0);}
+  66.67% {transform:translate3d(0,-50%,0);}
+  83.33% {transform:translate3d(0,-25%,0);}
 }
 
 .tippy-tooltip {
