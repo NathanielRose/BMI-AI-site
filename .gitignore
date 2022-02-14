@@ -2,6 +2,7 @@
 public/
 package-lock.json
 *.DS_Store
+src/static/img/.DS_Store
 
 # Logs
 logs

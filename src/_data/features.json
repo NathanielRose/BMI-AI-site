@@ -1,32 +1,22 @@
 [
   {
-    "title": "Mental Wellbeing",
-    "icon": "icon1.svg",
-    "content": "**Parameters: Stress, Emotional level**  \n Depression takes on epidemic proportions contributing with 12% of the total burden of nonfatal global disease. Overproportional high stress level and low emotional level long-term (tracked over a month) can be significant symptoms of Depression. To midentify depression and treat it at an early stage can be beneficial for mental wellbeing of humankind"
-  },
-  {
-    "title": "Entertainment",
-    "icon": "icon2.svg",
-    "content": "**Parameters: Emotional level**  \n Imagine spotify could sense your emotional level and configure your playlist according to your mood staying within your taste of music, that spotify already knows. While you're running, motivational music is played to keep you one more mile on track."
-  },
-  {
-    "title": "Product Testing",
-    "icon": "icon3.svg",
-    "content": "**Parameters: Engagement** \n You're holding the next generation of iphone in your hands. How much doe the desing, haptic makes you engage with the product?"
-  },
-  {
     "title": "Security",
     "icon": "icon4.svg",
-"content": "**Parameters: Brainwave identification** \n While wearing everyday wearables like headphones, you're automatically logged into your most important devices and account, efforlessly!"
+    "content": "**Parameters: Wavelength Feature Extraction**  \n Password breach accounts for a large proportion of cyber security attacks. Lymbic seeks to foster a new authentication standard. While using everyday head wearables like headphones, users access their digital environment through their neural signals, effortlessly."
   },
   {
-    "title": "Immersive Experiences",
-    "icon": "icon5.svg",
-    "content": "**Parameters: Focus** Digital worlds are built according to your own emotional level"
+    "title": "Mental Wellbeing",
+    "icon": "icon1.svg",
+    "content": "**Parameters: Cognitive Load**  \n Overproportional high stress can be a significant symptom of Depression that takes on epidemic proportions. Identifying mental disorders at an early stage can be extremely beneficial for treatments and ensure the wellbeing of humankind."
   },
   {
-    "title": "Productivity",
+    "title": "Productivity & Testing",
     "icon": "icon6.svg",
-    "content": "**Parameters: Focus, Engagement** While sitting in a lecture or watching a video - your focus level can be monitored and let's you realze which kind of media or content you engages most with, which is the requirement to assimilate information."
+    "content": "**Parameters: Attention, Cognitive Load**  \n Revolutionary inights into  how users engage with contents, mediums and products — both individually and collectively. Biometric findings will help us boost productivity, redesign education and optimize products according to the user's brain response."
+  },
+  {
+    "title": "Immersive Entertainment",
+    "icon": "icon2.svg",
+    "content": "**Parameters: Attention, Valence & Arousal**  \n Reach the next level of in-game experiences while assuring high focus throughout.  \n Listen to music tailored to your mood. Our AI understands more than your general music taste and configures individual playlists in real-time."
   }
 ]
