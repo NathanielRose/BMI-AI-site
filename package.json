@@ -19,6 +19,7 @@
     "tailwindcss": "^2.0.4"
   },
   "dependencies": {
-    "favicons": "^6.2.2"
+    "favicons": "^6.2.2",
+    "markdown-it": "^12.3.2"
   }
 }

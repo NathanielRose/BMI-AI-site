@@ -1,9 +1,9 @@
 const fs = require("fs");
 const favicons = require("favicons");
 
-const source = "img/favicon/favicon-96x96.png";
-const faviconsPath = "img/favicon/";
-const faviconsHtmlPath = "_layouts/_favicons.njk";
+const source = "src/static/img/favicon/favicon-new2.png";
+const faviconsPath = "src/static/img/favicon/";
+const faviconsHtmlPath = "src/_layouts/_favicons.njk";
 
 const configuration = {
   path: "/assets/favicons",
